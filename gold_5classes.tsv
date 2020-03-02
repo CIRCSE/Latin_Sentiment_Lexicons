@@ -54,7 +54,7 @@ uastus_ADJ	-1
 canceratus_ADJ	-1
 funebris_ADJ	-0.5
 onustus_ADJ	-0.5
-acosmon_ADJ	-0.5
+acosmos_ADJ	-0.5
 monstruosus_ADJ	-1
 pallidulus_ADJ	-0.5
 peraccommodatus_ADJ	1
@@ -188,7 +188,7 @@ campanus_ADJ	0
 spurcidicus_ADJ	-1
 indupeditus_ADJ	-0.5
 blouius_ADJ	0
-mythicon_ADJ	0
+mythicos_ADJ	0
 subinuisus_ADJ	-0.5
 stabilis_ADJ	0.5
 obuius_ADJ	-0.5
@@ -757,7 +757,7 @@ detractio_N	-0.5
 nepos_N	0
 homicida_N	-1
 tignum_N	0
-pýramis_N	0
+pyramis_N	0
 deceptio_N	-1
 conjectatio_N	0
 fruticetum_N	0

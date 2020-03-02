@@ -134,7 +134,6 @@ acidulus_ADJ	0.051
 acidus_ADJ	-0.035
 acies_N	0.881
 acistarium_N	0.18
-acosmon_ADJ	-0.655
 acosmos_ADJ	-0.655
 acriculus_ADJ	-0.1585
 acrimonia_N	-0.4105
@@ -7114,7 +7113,6 @@ mysterion_N	-0.494
 mysterium_N	-0.494
 mysterius_ADJ	-0.492
 mysticus_ADJ	-0.365
-mythicon_ADJ	0.967
 mythicos_ADJ	0.967
 mythistoricus_ADJ	0.967
 mythologia_N	1
@@ -8611,7 +8609,7 @@ putris_ADJ	-0.7
 putus_ADJ	0.668
 putus_N	0.485
 pyramis_N	0.062
-pýramis_N	0.062
+pyramis_N	0.062
 pyrauloplanum_N	-0.033
 pyrethrum_N	1
 pyrius_ADJ	0.646

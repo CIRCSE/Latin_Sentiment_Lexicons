@@ -54,7 +54,7 @@ uastus_adj	negative
 canceratus_adj	negative
 funebris_adj	negative
 onustus_adj	negative
-acosmon_adj	negative
+acosmos_adj	negative
 monstruosus_adj	negative
 pallidulus_adj	negative
 peraccommodatus_adj	positive
@@ -188,7 +188,7 @@ campanus_adj	neutral
 spurcidicus_adj	negative
 indupeditus_adj	negative
 blouius_adj	neutral
-mythicon_adj	neutral
+mythicos_adj	neutral
 subinuisus_adj	negative
 stabilis_adj	positive
 obuius_adj	negative
@@ -757,7 +757,7 @@ detractio_noun	negative
 nepos_noun	neutral
 homicida_noun	negative
 tignum_noun	neutral
-pýramis_noun	neutral
+pyramis_noun	neutral
 deceptio_noun	negative
 conjectatio_noun	neutral
 fruticetum_noun	neutral
