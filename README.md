@@ -13,4 +13,4 @@ Sprugnoli, R., Passarotti, M., Corbetta, D., & Peverelli, A. (2020). Creating, E
 Rachele Sprugnoli, Giovanni Moretti, Marco Passarotti, Daniela Corbetta, Andrea Peverelli. (2020). CIRCSE/Latin_Sentiment_Lexicons: First release (Version v1.0.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3865154
 
 ## Copyright
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />LEMLAT 3.0 is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />These resources are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
