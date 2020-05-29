@@ -5,11 +5,11 @@ This repository contains a new set of sentiment lexicons of Latin adjectives and
 - *gold_3classes.tsv* and *gold_5classes.tsv* were created by two experts of Latin language and culture following a multi-stage process and an extensive reconciliation phase. In the first each entry has 1 out of 3 possible score: positive, negative, neutral. The second has a five-way classification: 1 (fully positive), 0.5 (somewhat positive), 0 (neutral), -0.5 (somewhat negative), -1 (fully negative).
 - *silver.tsv* was built by deriving new lexicon entries through synonym, antonym and derivational relations with the entries in the gold standard. Synonyms and antonyms were taken from the [Latin dictionary compiled by Skřivan (1890)](https://github.com/nikita-moor/latin-dictionary/tree/master/Skrivan1890 "Latin dictionary compiled by Skřivan (1890)"). Derivational relations were extracted from the database of [Word Formation Latin](http://wfl.marginalia.it/ "Word Formation Latin"). Graphical variants of lemmas present in the gold standard were added to the silver standard as well.
 
-# References:
-## Paper
+## How to cite
+### Paper
 Sprugnoli, R., Passarotti, M., Corbetta, D., & Peverelli, A. (2020). Creating, Evaluating and Extending Sentiment Lexicons for Latin. In Twelfth International Conference on Language Resources and Evaluation (pp. 3071-3079). European Language Resources Association (ELRA). ([PDF])(https://www.aclweb.org/anthology/2020.lrec-1.376.pdf)
 
-## Dataset
+### Dataset
 Rachele Sprugnoli, Giovanni Moretti, Marco Passarotti, Daniela Corbetta, Andrea Peverelli. (2020). CIRCSE/Latin_Sentiment_Lexicons: First release (Version v1.0.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3865154
 
 ## Copyright
