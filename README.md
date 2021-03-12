@@ -11,7 +11,7 @@ This repository contains a new set of sentiment lexicons of Latin adjectives and
 Sprugnoli, R., Passarotti, M., Corbetta, D., & Peverelli, A. (2020). Creating, Evaluating and Extending Sentiment Lexicons for Latin. In Proceedings of the Twelfth International Conference on Language Resources and Evaluation (pp. 3071-3079). European Language Resources Association (ELRA). ([PDF])(https://www.aclweb.org/anthology/2020.lrec-1.376.pdf)
 
 For *LatinAffectus*, its modeling and linking:
-Sprugnoli, R., Mambrini, F., Moretti, G., Passarotti, M. (2020). Towards the Modeling of Polarity in a Latin Knowledge Base. In Proceedings of the 3rd Workshop on Humanities in the Semantic Web (WHiSe III). ([PDF])(http://whise.cc/2020/papers/WHiSe_2020_paper_6.pdf)
+Sprugnoli, R., Mambrini, F., Moretti, G., Passarotti, M. (2020). Towards the Modeling of Polarity in a Latin Knowledge Base. In Proceedings of the 3rd Workshop on Humanities in the Semantic Web (WHiSe III). ([PDF])(http://ceur-ws.org/Vol-2695/paper7.pdf)
 
 ### Dataset
 Rachele Sprugnoli, Giovanni Moretti, Marco Passarotti, Daniela Corbetta, Andrea Peverelli. (2020). CIRCSE/Latin_Sentiment_Lexicons: First release (Version v1.0.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3865154
