@@ -16,7 +16,7 @@ Sprugnoli, R., Mambrini, F., Moretti, G., Passarotti, M. (2020). Towards the Mod
 ### Dataset
 Rachele Sprugnoli, Giovanni Moretti, Marco Passarotti, Daniela Corbetta, Andrea Peverelli. (2020). CIRCSE/Latin_Sentiment_Lexicons: First release (Version v1.0.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3865154
 
-LatinAffectus is also available in the ILC4CLARIN repository of CLARIN-IT: [http://hdl.handle.net/20.500.11752/OPEN-527](http://hdl.handle.net/20.500.11752/OPEN-527)
+LatinAffectus is also available in the ILC4CLARIN repository of CLARIN-IT: [http://hdl.handle.net/20.500.11752/OPEN-527](http://hdl.handle.net/20.500.11752/OPEN-527).
 
 ## Copyright
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />These resources are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
